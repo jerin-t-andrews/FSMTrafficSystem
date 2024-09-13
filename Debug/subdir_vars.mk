@@ -7,15 +7,15 @@ CMD_SRCS += \
 ../mspm0g3507.cmd 
 
 C_SRCS += \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Clock.c \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Dump.c \
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Clock.c \
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Dump.c \
 ../ECE319K_Lab4Grader.c \
 ../ECE319K_Lab4main.c \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/FIFO.c \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/LaunchPad.c \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Timer.c \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/UART.c \
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/UARTints.c 
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/FIFO.c \
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/LaunchPad.c \
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Timer.c \
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/UART.c \
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/UARTints.c 
 
 C_DEPS += \
 ./Clock.d \
@@ -62,14 +62,14 @@ C_DEPS__QUOTED += \
 "UARTints.d" 
 
 C_SRCS__QUOTED += \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Clock.c" \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Dump.c" \
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Clock.c" \
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Dump.c" \
 "../ECE319K_Lab4Grader.c" \
 "../ECE319K_Lab4main.c" \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/FIFO.c" \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/LaunchPad.c" \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Timer.c" \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/UART.c" \
-"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/UARTints.c" 
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/FIFO.c" \
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/LaunchPad.c" \
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Timer.c" \
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/UART.c" \
+"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/UARTints.c" 
 
 

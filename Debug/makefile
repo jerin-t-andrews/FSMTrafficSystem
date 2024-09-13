@@ -130,10 +130,10 @@ endif
 
 # Add inputs and outputs from these tool invocations to the build variables 
 EXE_OUTPUTS += \
-ECE319K_Lab4.out \
+ECE319K_Lab4.out 
 
 EXE_OUTPUTS__QUOTED += \
-"ECE319K_Lab4.out" \
+"ECE319K_Lab4.out" 
 
 
 # All Target
@@ -144,7 +144,7 @@ all: $(OBJS) $(CMD_SRCS) $(GEN_CMDS)
 ECE319K_Lab4.out: $(OBJS) $(CMD_SRCS) $(GEN_CMDS)
 	@echo 'Building target: "$@"'
 	@echo 'Invoking: Arm Linker'
-	"/Applications/ti/ccs1240/ccs/tools/compiler/ti-cgt-armllvm_2.1.3.LTS/bin/tiarmclang" -march=thumbv6m -mcpu=cortex-m0plus -mfloat-abi=soft -mlittle-endian -mthumb -O0 -D__MSPM0G3507__ -gdwarf-3 -Wl,-m"ECE319K_Lab4.map" -Wl,--heap_size=512 -Wl,--stack_size=512 -Wl,-i"/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/ECE319K_Lab4/Debug/syscfg" -Wl,-i"/Applications/ti/ccs1240/ccs/tools/compiler/ti-cgt-armllvm_2.1.3.LTS/lib" -Wl,--diag_wrap=off -Wl,--display_error_number -Wl,--warn_sections -Wl,--xml_link_info="ECE319K_Lab4_linkInfo.xml" -Wl,--rom_model -o "ECE319K_Lab4.out" $(ORDERED_OBJS)
+	"/Applications/ti/ccs1240/ccs/tools/compiler/ti-cgt-armllvm_2.1.3.LTS/bin/tiarmclang" -march=thumbv6m -mcpu=cortex-m0plus -mfloat-abi=soft -mlittle-endian -mthumb -O0 -D__MSPM0G3507__ -gdwarf-3 -Wl,-m"ECE319K_Lab4.map" -Wl,--heap_size=512 -Wl,--stack_size=512 -Wl,-i"/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/ECE319K_Lab4/Debug/syscfg" -Wl,-i"/Applications/ti/ccs1240/ccs/tools/compiler/ti-cgt-armllvm_2.1.3.LTS/lib" -Wl,--diag_wrap=off -Wl,--display_error_number -Wl,--warn_sections -Wl,--xml_link_info="ECE319K_Lab4_linkInfo.xml" -Wl,--rom_model -o "ECE319K_Lab4.out" $(ORDERED_OBJS)
 	@echo 'Finished building target: "$@"'
 	@echo ' '
 

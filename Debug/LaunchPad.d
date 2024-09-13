@@ -1,7 +1,7 @@
 # FIXED
 
 LaunchPad.o: \
- /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/LaunchPad.c \
+ /Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/LaunchPad.c \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/msp.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/DeviceFamily.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/m0p/mspm0g350x.h \
@@ -32,8 +32,8 @@ LaunchPad.o: \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/hw_debugss.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/hw_sysctl.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/sysctl/hw_sysctl_mspm0g1x0x_g3x0x.h \
- /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/LaunchPad.h \
- /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Clock.h
+ /Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/LaunchPad.h \
+ /Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Clock.h
 
 /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/msp.h:
 
@@ -95,6 +95,6 @@ LaunchPad.o: \
 
 /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/sysctl/hw_sysctl_mspm0g1x0x_g3x0x.h:
 
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/LaunchPad.h:
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/LaunchPad.h:
 
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Clock.h:
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Clock.h:

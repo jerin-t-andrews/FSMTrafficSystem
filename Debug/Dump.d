@@ -1,6 +1,7 @@
 # FIXED
 
-Dump.o: /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Dump.c \
+Dump.o: \
+ /Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Dump.c \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/msp.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/DeviceFamily.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/m0p/mspm0g350x.h \
@@ -31,7 +32,7 @@ Dump.o: /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Dump.c \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/hw_debugss.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/hw_sysctl.h \
  /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/sysctl/hw_sysctl_mspm0g1x0x_g3x0x.h \
- /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Timer.h
+ /Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Timer.h
 
 /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/msp.h:
 
@@ -93,4 +94,4 @@ Dump.o: /Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Dump.c \
 
 /Applications/ti/mspm0_sdk_1_20_01_06/source/ti/devices/msp/peripherals/m0p/sysctl/hw_sysctl_mspm0g1x0x_g3x0x.h:
 
-/Users/jerinandrews/Desktop/MSPM0_ValvanoWare/inc/Timer.h:
+/Users/jerinandrews/Desktop/CE319KLabs/MSPM0_ValvanoWare/inc/Timer.h:
